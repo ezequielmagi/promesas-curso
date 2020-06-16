@@ -1,0 +1,24 @@
+{
+  "name": "promesas-en-js",
+  "version": "1.0.0",
+  "description": "aprendiendo de promesas en js",
+  "main": "index.js",
+  "scripts": {
+    "promesas": "node index.js",
+    "promesas:challenge": "node challenge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezequielmagi/promesas-curso.git"
+  },
+  "keywords": [
+    "promesas",
+    "js"
+  ],
+  "author": "iMagic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezequielmagi/promesas-curso/issues"
+  },
+  "homepage": "https://github.com/ezequielmagi/promesas-curso#readme"
+}
